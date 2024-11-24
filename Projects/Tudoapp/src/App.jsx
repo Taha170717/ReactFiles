@@ -5,14 +5,13 @@ import Item2 from "./components/Item2";
 
 function App() {
   return (
-    <center class="todo-container">
+    <center className="todo-container">
     <AppName/> <br />
-      <div class="container text-center">
         <Addtudo/>
+        <div className="abc">
         <Item1/>
         <Item2></Item2>
-        
-      </div>
+        </div>
     </center>
   );
 }

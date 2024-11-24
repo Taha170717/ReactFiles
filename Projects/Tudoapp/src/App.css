@@ -1,0 +1,25 @@
+h1{
+  font-weight: 700;
+  font-size: 50px;
+  margin: 10px;
+  margin-bottom:20px ;
+
+}
+input{
+  width: 100%;
+  border: transparent;
+}
+.abc {
+  text-align: left;
+}
+.kg-row{
+
+  margin: 10px 5px;
+  
+}
+.col{
+  border: 1px solid black;
+}
+.kg-button{
+  width:100%;
+}
